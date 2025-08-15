@@ -1,0 +1,146 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- After the Crash</label>
+		<defName>ME_Factorio_After_the_Crash</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- After the Crash</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Anomaly</label>
+		<defName>ME_Factorio_Anomaly</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Anomaly</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Are We Alone?</label>
+		<defName>ME_Factorio_Are_We_Alone</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Are We Alone</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Automation</label>
+		<defName>ME_Factorio_Automation</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Automation</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Beyond Factory Outskirts</label>
+		<defName>ME_Factorio_Beyond_Factory_Outskirts</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Beyond Factory Outskirts</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- cenSeq's Discrepancy</label>
+		<defName>ME_Factorio_cenSeqs_Discrepancy</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- cenSeq's Discrepancy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Efficiency Program</label>
+		<defName>ME_Factorio_Efficiency_Program</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Efficiency Program</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Expansion</label>
+		<defName>ME_Factorio_Expansion</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Expansion</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- First Light</label>
+		<defName>ME_Factorio_First_Light</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- First Light</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Gathering Horizon</label>
+		<defName>ME_Factorio_Gathering_Horizon</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Gathering Horizon</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Pollution</label>
+		<defName>ME_Factorio_Pollution</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Pollution</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Research and Minerals</label>
+		<defName>ME_Factorio_Research_and_Minerals</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Research and Minerals</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Resource Deficiency</label>
+		<defName>ME_Factorio_Resource_Deficiency</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Resource Deficiency</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Sentient</label>
+		<defName>ME_Factorio_Sentient</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Sentient</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Solar Intervention</label>
+		<defName>ME_Factorio_Solar_Intervention</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Solar Intervention</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Swell Pad</label>
+		<defName>ME_Factorio_Swell_Pad</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Swell Pad</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- The Oil Industry</label>
+		<defName>ME_Factorio_The_Oil_Industry</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- The Oil Industry</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- The Right Stuff</label>
+		<defName>ME_Factorio_The_Right_Stuff</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- The Right Stuff</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- The Search for Iron</label>
+		<defName>ME_Factorio_The_Search_for_Iron</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- The Search for Iron</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Transmit</label>
+		<defName>ME_Factorio_Transmit</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Transmit</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Turbine Dynamics</label>
+		<defName>ME_Factorio_Turbine_Dynamics</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Turbine Dynamics</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 1</label>
+		<defName>ME_Factorio_World_Ambience_1</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 2</label>
+		<defName>ME_Factorio_World_Ambience_2</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 3</label>
+		<defName>ME_Factorio_World_Ambience_3</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 3</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 4</label>
+		<defName>ME_Factorio_World_Ambience_4</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 4</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 5</label>
+		<defName>ME_Factorio_World_Ambience_5</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 5</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Factorio- World Ambience 6</label>
+		<defName>ME_Factorio_World_Ambience_6</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- World Ambience 6</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Factorio- Main Menu</label>
+		<defName>ME_Factorio_Main_Menu</defName>
+		<clipPath>MusicExpanded/Factorio/Factorio- Main Menu</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

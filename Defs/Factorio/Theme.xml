@@ -1,0 +1,41 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Factorio</defName>
+        <label>Music Expanded: Factorio</label>
+		<iconPath>UI/Icons/Factorio</iconPath>
+        <description>Contains Tracks from the Factory Builder and Imperialism Simulator, Factorio. Where after crashlanding on a hostile alien planet you build a factory and procede to the destroy the local environment and the locals through both pollution and high velocity-low drag ordinance. You are the bad guy but it's your nature.</description>
+		<tracks>			
+			<li>ME_Factorio_After_the_Crash</li>
+			<li>ME_Factorio_Anomaly</li>
+			<li>ME_Factorio_Are_We_Alone</li>
+			<li>ME_Factorio_Automation</li>
+			<li>ME_Factorio_Beyond_Factory_Outskirts</li>
+			<li>ME_Factorio_cenSeqs_Discrepancy</li>
+			<li>ME_Factorio_Efficiency_Program</li>
+			<li>ME_Factorio_Expansion</li>
+			<li>ME_Factorio_First_Light</li>
+			<li>ME_Factorio_Gathering_Horizon</li>
+
+			<li>ME_Factorio_Pollution</li>
+			<li>ME_Factorio_Research_and_Minerals</li>
+			<li>ME_Factorio_Resource_Deficiency</li>
+			<li>ME_Factorio_Sentient</li>
+			<li>ME_Factorio_Solar_Intervention</li>
+			<li>ME_Factorio_Swell_Pad</li>
+			<li>ME_Factorio_The_Oil_Industry</li>
+			<li>ME_Factorio_The_Right_Stuff</li>
+			<li>ME_Factorio_The_Search_for_Iron</li>
+			<li>ME_Factorio_Transmit</li>
+			<li>ME_Factorio_Turbine_Dynamics</li>
+			
+			<li>ME_Factorio_World_Ambience_1</li>
+			<li>ME_Factorio_World_Ambience_2</li>
+			<li>ME_Factorio_World_Ambience_3</li>
+			<li>ME_Factorio_World_Ambience_4</li>
+			<li>ME_Factorio_World_Ambience_5</li>
+			<li>ME_Factorio_World_Ambience_6</li>	
+			
+			<li>ME_Factorio_Main_Menu</li>		
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
